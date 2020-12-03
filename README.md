@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Welcome to my Github page. I always question how things around me work and I often do projects up here.
+
+I'm currently a sophomore undergrad, majoring in Computer Science with interest in Back-end, Web Development and Data Component
+
+🔭 I’m learning more on ...
+
+Let's connect at <img src = 'image/iconfinder-icon.svg' alt="Markdown Monster icon" style="float: right; margin-right: 10px;" />
+
 <!--
 **tdt142/tdt142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
